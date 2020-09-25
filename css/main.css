@@ -1,0 +1,21 @@
+:root {
+
+    --title-text-color: #212121;
+    --accent-color: #2196F3;
+    --primary-white-color: #ffffff;
+    --main-text-color: #757575;
+
+
+}
+
+.list {
+    list-style: none;
+}
+
+.navbar {
+    color: var(--title-text-color);
+}
+
+.link-portfolio {
+    color: var(--title-text-color);
+}

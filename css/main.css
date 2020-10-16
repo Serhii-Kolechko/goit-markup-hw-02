@@ -278,7 +278,7 @@ address {
   color: #757575;
 }
 
-address a {
+.address-contacts {
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;

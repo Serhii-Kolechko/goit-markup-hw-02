@@ -181,7 +181,7 @@ html {
   letter-spacing: 0.03em;
 }
 
-h2 {
+.secondary-title {
   color: var(--title-text-color);
 
   font-family: Roboto;
